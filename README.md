@@ -97,7 +97,8 @@ Corporate-level project documentation
 👩‍💻 Author
 
 Nandini Verma
-Aspiring Data Analyst | Business Intelligence Enthusiast
+
+Aspiring Data & Business Analyst
 
 🔗 GitHub: https://github.com/vnandini879
 
